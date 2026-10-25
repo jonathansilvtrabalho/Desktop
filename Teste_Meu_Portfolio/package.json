@@ -1,0 +1,19 @@
+{
+  "name": "med-app",
+  "version": "1.0.0",
+  "description": "site med ",
+  "keywords": [
+    "Jonathan09081996@"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "057c7f48-2abf-40eb-82af-1c4483e26785"
+  },
+  "license": "ISC",
+  "author": "jonathansilva",
+  "type": "module",
+  "main": "MED.APP.js",
+  "scripts": {
+    "test": "console.log(\"hello,world!\");"
+  }
+}
