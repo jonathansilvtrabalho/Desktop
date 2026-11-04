@@ -1,0 +1,622 @@
+treno de ataque a rede Microsoft Windows [versão 10.0.26300.9711]
+(c) Microsoft Corporation. Todos os direitos reservados.
+
+C:\Windows\System32>ipconfig /flushdns
+
+Configuração de IP do Windows
+
+Liberação do Cache do DNS Resolver bem-sucedida.
+
+C:\Windows\System32>ipconfig /release
+
+Configuração de IP do Windows
+
+Nenhuma operação pode ser executada em Ethernet enquanto a
+mídia estiver desconectada.
+Nenhuma operação pode ser executada em Conexão Local* 1 enquanto a
+mídia estiver desconectada.
+
+Adaptador Ethernet Ethernet:
+
+   Estado da mídia. . . . . . . . . . . . . .  : mídia desconectada
+   Sufixo DNS específico de conexão. . . . . . :
+
+Adaptador Ethernet Ethernet 2:
+
+   Sufixo DNS específico de conexão. . . . . . :
+   Endereço IPv6 de link local . . . . . . . . : fe80::8cdc:e77e:f482:8de2%19
+   Endereço IPv4 de Configuração Automática. . : 169.254.15.43
+   Máscara de Sub-rede . . . . . . . . . . . . : 255.255.0.0
+   Gateway Padrão. . . . . . . . . . . . . . . :
+
+Adaptador de Rede sem Fio Conexão Local* 1:
+
+   Estado da mídia. . . . . . . . . . . . . .  : mídia desconectada
+   Sufixo DNS específico de conexão. . . . . . :
+
+Adaptador de Rede sem Fio Conexão Local* 2:
+
+   Estado da mídia. . . . . . . . . . . . . .  : mídia desconectada
+   Sufixo DNS específico de conexão. . . . . . :
+
+Adaptador de Rede sem Fio Wi-Fi:
+
+   Sufixo DNS específico de conexão. . . . . . :
+   Endereço IPv6 de link local . . . . . . . . : fe80::9d3:54b6:308e:6b91%20
+   Gateway Padrão. . . . . . . . . . . . . . . :
+
+C:\Windows\System32>ipconfig
+
+Configuração de IP do Windows
+
+
+Adaptador Ethernet Ethernet:
+
+   Estado da mídia. . . . . . . . . . . . . .  : mídia desconectada
+   Sufixo DNS específico de conexão. . . . . . :
+
+Adaptador Ethernet Ethernet 2:
+
+   Sufixo DNS específico de conexão. . . . . . :
+   Endereço IPv6 de link local . . . . . . . . : fe80::8cdc:e77e:f482:8de2%19
+   Endereço IPv4 de Configuração Automática. . : 169.254.15.43
+   Máscara de Sub-rede . . . . . . . . . . . . : 255.255.0.0
+   Gateway Padrão. . . . . . . . . . . . . . . :
+
+Adaptador de Rede sem Fio Conexão Local* 1:
+
+   Estado da mídia. . . . . . . . . . . . . .  : mídia desconectada
+   Sufixo DNS específico de conexão. . . . . . :
+
+Adaptador de Rede sem Fio Conexão Local* 2:
+
+   Estado da mídia. . . . . . . . . . . . . .  : mídia desconectada
+   Sufixo DNS específico de conexão. . . . . . :
+
+Adaptador de Rede sem Fio Wi-Fi:
+
+   Sufixo DNS específico de conexão. . . . . . :
+   Endereço IPv6 de link local . . . . . . . . : fe80::9d3:54b6:308e:6b91%20
+   Endereço IPv4. . . . . . . .  . . . . . . . : 192.168.1.4
+   Máscara de Sub-rede . . . . . . . . . . . . : 255.255.255.0
+   Gateway Padrão. . . . . . . . . . . . . . . : 192.168.1.1
+
+C:\Windows\System32>npm ls function-flag
+C:\Windows\System32
+`-- (empty)
+
+
+C:\Windows\System32>ipconfig/all
+
+Configuração de IP do Windows
+
+   Nome do host. . . . . . . . . . . . . . . . : DESKTOP-01TE2F2
+   Sufixo DNS primário . . . . . . . . . . . . :
+   Tipo de nó. . . . . . . . . . . . . . . . . : híbrido
+   Roteamento de IP ativado. . . . . . . . . . : não
+   Proxy WINS ativado. . . . . . . . . . . . . : não
+
+Adaptador Ethernet Ethernet:
+
+   Estado da mídia. . . . . . . . . . . . . .  : mídia desconectada
+   Sufixo DNS específico de conexão. . . . . . :
+   Descrição . . . . . . . . . . . . . . . . . : Realtek PCIe GbE Family Controller
+   Endereço Físico . . . . . . . . . . . . . . : 50-A1-32-49-B2-44
+   DHCP Habilitado . . . . . . . . . . . . . . : Sim
+   Configuração Automática Habilitada. . . . . : Sim
+
+Adaptador Ethernet Ethernet 2:
+
+   Sufixo DNS específico de conexão. . . . . . :
+   Descrição . . . . . . . . . . . . . . . . . : VirtualBox Host-Only Ethernet Adapter
+   Endereço Físico . . . . . . . . . . . . . . : 0A-00-27-00-00-13
+   DHCP Habilitado . . . . . . . . . . . . . . : Não
+   Configuração Automática Habilitada. . . . . : Sim
+   Endereço IPv6 de link local . . . . . . . . : fe80::8cdc:e77e:f482:8de2%19(Preferencial)
+   Endereço IPv4 de Configuração Automática. . : 169.254.15.43(Preferencial)
+   Máscara de Sub-rede . . . . . . . . . . . . : 255.255.0.0
+   Gateway Padrão. . . . . . . . . . . . . . . :
+   IAID de DHCPv6. . . . . . . . . . . . . . . : 772407335
+   DUID de Cliente DHCPv6. . . . . . . . . . . : 00-01-00-01-2F-15-10-4C-50-A1-32-49-B2-44
+   NetBIOS em Tcpip. . . . . . . . . . . . . . : Habilitado
+
+Adaptador de Rede sem Fio Conexão Local* 1:
+
+   Estado da mídia. . . . . . . . . . . . . .  : mídia desconectada
+   Sufixo DNS específico de conexão. . . . . . :
+   Descrição . . . . . . . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter
+   Endereço Físico . . . . . . . . . . . . . . : 7E-88-99-2B-65-5E
+   DHCP Habilitado . . . . . . . . . . . . . . : Sim
+   Configuração Automática Habilitada. . . . . : Sim
+
+Adaptador de Rede sem Fio Conexão Local* 2:
+
+   Estado da mídia. . . . . . . . . . . . . .  : mídia desconectada
+   Sufixo DNS específico de conexão. . . . . . :
+   Descrição . . . . . . . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter #2
+   Endereço Físico . . . . . . . . . . . . . . : 72-88-99-2B-65-5E
+   DHCP Habilitado . . . . . . . . . . . . . . : Não
+   Configuração Automática Habilitada. . . . . : Sim
+
+Adaptador de Rede sem Fio Wi-Fi:
+
+   Sufixo DNS específico de conexão. . . . . . :
+   Descrição . . . . . . . . . . . . . . . . . : Realtek 8821CE Wireless LAN 802.11ac PCI-E NIC
+   Endereço Físico . . . . . . . . . . . . . . : 7C-88-99-2B-65-5E
+   DHCP Habilitado . . . . . . . . . . . . . . : Sim
+   Configuração Automática Habilitada. . . . . : Sim
+   Endereço IPv6 de link local . . . . . . . . : fe80::9d3:54b6:308e:6b91%20(Preferencial)
+   Endereço IPv4. . . . . . . .  . . . . . . . : 192.168.1.4(Preferencial)
+   Máscara de Sub-rede . . . . . . . . . . . . : 255.255.255.0
+   Concessão Obtida. . . . . . . . . . . . . . : segunda-feira, 2 de novembro de 2026 21:22:32
+   Concessão Expira. . . . . . . . . . . . . . : terça-feira, 3 de novembro de 2026 21:22:32
+   Gateway Padrão. . . . . . . . . . . . . . . : 192.168.1.1
+   Servidor DHCP . . . . . . . . . . . . . . . : 192.168.1.1
+   IAID de DHCPv6. . . . . . . . . . . . . . . : 159156377
+   DUID de Cliente DHCPv6. . . . . . . . . . . : 00-01-00-01-2F-15-10-4C-50-A1-32-49-B2-44
+   Servidores DNS. . . . . . . . . . . . . . . : 192.168.1.1
+   NetBIOS em Tcpip. . . . . . . . . . . . . . : Habilitado
+
+Adaptador Ethernet Conexão de Rede Bluetooth:
+
+   Estado da mídia. . . . . . . . . . . . . .  : mídia desconectada
+   Sufixo DNS específico de conexão. . . . . . :
+   Descrição . . . . . . . . . . . . . . . . . : Bluetooth Device (Personal Area Network)
+   Endereço Físico . . . . . . . . . . . . . . : 7C-88-99-2B-65-5F
+   DHCP Habilitado . . . . . . . . . . . . . . : Sim
+   Configuração Automática Habilitada. . . . . : Sim
+
+C:\Windows\System32> arp -a
+
+Interface: 169.254.15.43 --- 0x13
+  Endereço IP           Endereço físico       Tipo
+  169.254.255.255       ff-ff-ff-ff-ff-ff     estático
+  224.0.0.22            01-00-5e-00-00-16     estático
+  224.0.0.251           01-00-5e-00-00-fb     estático
+  224.0.0.252           01-00-5e-00-00-fc     estático
+  239.255.255.250       01-00-5e-7f-ff-fa     estático
+
+Interface: 192.168.1.4 --- 0x14
+  Endereço IP           Endereço físico       Tipo
+  192.168.1.1           9c-68-65-de-51-a8     dinâmico
+  192.168.1.255         ff-ff-ff-ff-ff-ff     estático
+  224.0.0.22            01-00-5e-00-00-16     estático
+  224.0.0.251           01-00-5e-00-00-fb     estático
+  224.0.0.252           01-00-5e-00-00-fc     estático
+  239.255.255.250       01-00-5e-7f-ff-fa     estático
+  255.255.255.255       ff-ff-ff-ff-ff-ff     estático
+
+C:\Windows\System32>ipconfig/release
+
+Configuração de IP do Windows
+
+Nenhuma operação pode ser executada em Ethernet enquanto a
+mídia estiver desconectada.
+Nenhuma operação pode ser executada em Conexão Local* 1 enquanto a
+mídia estiver desconectada.
+Nenhuma operação pode ser executada em Conexão de Rede Bluetooth enquanto a
+mídia estiver desconectada.
+
+Adaptador Ethernet Ethernet:
+
+   Estado da mídia. . . . . . . . . . . . . .  : mídia desconectada
+   Sufixo DNS específico de conexão. . . . . . :
+
+Adaptador Ethernet Ethernet 2:
+
+   Sufixo DNS específico de conexão. . . . . . :
+   Endereço IPv6 de link local . . . . . . . . : fe80::8cdc:e77e:f482:8de2%19
+   Endereço IPv4 de Configuração Automática. . : 169.254.15.43
+   Máscara de Sub-rede . . . . . . . . . . . . : 255.255.0.0
+   Gateway Padrão. . . . . . . . . . . . . . . :
+
+Adaptador de Rede sem Fio Conexão Local* 1:
+
+   Estado da mídia. . . . . . . . . . . . . .  : mídia desconectada
+   Sufixo DNS específico de conexão. . . . . . :
+
+Adaptador de Rede sem Fio Conexão Local* 2:
+
+   Estado da mídia. . . . . . . . . . . . . .  : mídia desconectada
+   Sufixo DNS específico de conexão. . . . . . :
+
+Adaptador de Rede sem Fio Wi-Fi:
+
+   Sufixo DNS específico de conexão. . . . . . :
+   Endereço IPv6 de link local . . . . . . . . : fe80::9d3:54b6:308e:6b91%20
+   Gateway Padrão. . . . . . . . . . . . . . . :
+
+Adaptador Ethernet Conexão de Rede Bluetooth:
+
+   Estado da mídia. . . . . . . . . . . . . .  : mídia desconectada
+   Sufixo DNS específico de conexão. . . . . . :
+
+C:\Windows\System32>ping<destino>
+A sintaxe do comando está incorreta.
+
+C:\Windows\System32>ping <destino>
+A sintaxe do comando está incorreta.
+
+C:\Windows\System32>ping 192.168.1.1
+
+Disparando 192.168.1.1 com 32 bytes de dados:
+Resposta de 192.168.1.1: bytes=32 tempo=2ms TTL=64
+Resposta de 192.168.1.1: bytes=32 tempo=2ms TTL=64
+Resposta de 192.168.1.1: bytes=32 tempo=50ms TTL=64
+Resposta de 192.168.1.1: bytes=32 tempo=17ms TTL=64
+
+Estatísticas do Ping para 192.168.1.1:
+    Pacotes: Enviados = 4, Recebidos = 4, Perdidos = 0 (0% de
+             perda),
+Aproximar um número redondo de vezes em milissegundos:
+    Mínimo = 2ms, Máximo = 50ms, Média = 17ms
+
+C:\Windows\System32>tracert<192.168.1.1>
+A sintaxe do comando está incorreta.
+
+C:\Windows\System32>tracert 192.168.1.1
+
+Rastreando a rota para 192.168.1.1 com no máximo 30 saltos
+
+  1     4 ms    27 ms     6 ms  192.168.1.1
+
+Rastreamento concluído.
+
+C:\Windows\System32>pathping 192.168.1.1
+
+Rastreando a rota para 192.168.1.1 com no máximo 30 saltos
+
+  0  DESKTOP-01TE2F2 [192.168.1.4]
+  1  192.168.1.1
+
+Calculando estatísticas para 25 segundos...
+            Origem aqui      Este nó/Vínculo
+            Perdido/Enviado  Perdido/Enviado
+Salto RTT        = Pct            = Pct       Endereço
+  0                                           DESKTOP-01TE2F2 [192.168.1.4]
+                                0/ 100 =  0%   |
+  1   12ms     0/ 100 =  0%     0/ 100 =  0%  192.168.1.1
+
+Rastreamento concluído.
+
+C:\Windows\System32>netstat 192.168.1.1
+
+Conexões ativas
+
+  Proto  Endereço local         Endereço externo       Estado
+  TCP    192.168.1.4:51558      edge-dgw-shv-02-gru1:https  ESTABLISHED
+  TCP    192.168.1.4:52452      ce-in-f188:5228        ESTABLISHED
+  TCP    192.168.1.4:55315      172.172.255.216:https  ESTABLISHED
+  TCP    192.168.1.4:57697      57.145.7.32:5222       ESTABLISHED
+  TCP    192.168.1.4:58634      edge-dgw-shv-02-gru1:https  ESTABLISHED
+  TCP    192.168.1.4:59859      instagram-p3-shv-02-gru1:https  ESTABLISHED
+  TCP    192.168.1.4:61011      edge-dgw-shv-02-gru1:https  ESTABLISHED
+  TCP    192.168.1.4:61926      edge-dgw-shv-02-gru1:https  ESTABLISHED
+
+Microsoft Windows [versão 10.0.26300.9711]
+(c) Microsoft Corporation. Todos os direitos reservados.
+
+C:\Windows\System32>ipconfig /flushdns
+
+Configuração de IP do Windows
+
+Liberação do Cache do DNS Resolver bem-sucedida.
+
+C:\Windows\System32>ipconfig /release
+
+Configuração de IP do Windows
+
+Nenhuma operação pode ser executada em Ethernet enquanto a
+mídia estiver desconectada.
+Nenhuma operação pode ser executada em Conexão Local* 1 enquanto a
+mídia estiver desconectada.
+
+Adaptador Ethernet Ethernet:
+
+   Estado da mídia. . . . . . . . . . . . . .  : mídia desconectada
+   Sufixo DNS específico de conexão. . . . . . :
+
+Adaptador Ethernet Ethernet 2:
+
+   Sufixo DNS específico de conexão. . . . . . :
+   Endereço IPv6 de link local . . . . . . . . : fe80::8cdc:e77e:f482:8de2%19
+   Endereço IPv4 de Configuração Automática. . : 169.254.15.43
+   Máscara de Sub-rede . . . . . . . . . . . . : 255.255.0.0
+   Gateway Padrão. . . . . . . . . . . . . . . :
+
+Adaptador de Rede sem Fio Conexão Local* 1:
+
+   Estado da mídia. . . . . . . . . . . . . .  : mídia desconectada
+   Sufixo DNS específico de conexão. . . . . . :
+
+Adaptador de Rede sem Fio Conexão Local* 2:
+
+   Estado da mídia. . . . . . . . . . . . . .  : mídia desconectada
+   Sufixo DNS específico de conexão. . . . . . :
+
+Adaptador de Rede sem Fio Wi-Fi:
+
+   Sufixo DNS específico de conexão. . . . . . :
+   Endereço IPv6 de link local . . . . . . . . : fe80::9d3:54b6:308e:6b91%20
+   Gateway Padrão. . . . . . . . . . . . . . . :
+
+C:\Windows\System32>ipconfig
+
+Configuração de IP do Windows
+
+
+Adaptador Ethernet Ethernet:
+
+   Estado da mídia. . . . . . . . . . . . . .  : mídia desconectada
+   Sufixo DNS específico de conexão. . . . . . :
+
+Adaptador Ethernet Ethernet 2:
+
+   Sufixo DNS específico de conexão. . . . . . :
+   Endereço IPv6 de link local . . . . . . . . : fe80::8cdc:e77e:f482:8de2%19
+   Endereço IPv4 de Configuração Automática. . : 169.254.15.43
+   Máscara de Sub-rede . . . . . . . . . . . . : 255.255.0.0
+   Gateway Padrão. . . . . . . . . . . . . . . :
+
+Adaptador de Rede sem Fio Conexão Local* 1:
+
+   Estado da mídia. . . . . . . . . . . . . .  : mídia desconectada
+   Sufixo DNS específico de conexão. . . . . . :
+
+Adaptador de Rede sem Fio Conexão Local* 2:
+
+   Estado da mídia. . . . . . . . . . . . . .  : mídia desconectada
+   Sufixo DNS específico de conexão. . . . . . :
+
+Adaptador de Rede sem Fio Wi-Fi:
+
+   Sufixo DNS específico de conexão. . . . . . :
+   Endereço IPv6 de link local . . . . . . . . : fe80::9d3:54b6:308e:6b91%20
+   Endereço IPv4. . . . . . . .  . . . . . . . : 192.168.1.4
+   Máscara de Sub-rede . . . . . . . . . . . . : 255.255.255.0
+   Gateway Padrão. . . . . . . . . . . . . . . : 192.168.1.1
+
+C:\Windows\System32>npm ls function-flag
+C:\Windows\System32
+`-- (empty)
+
+
+C:\Windows\System32>ipconfig/all
+
+Configuração de IP do Windows
+
+   Nome do host. . . . . . . . . . . . . . . . : DESKTOP-01TE2F2
+   Sufixo DNS primário . . . . . . . . . . . . :
+   Tipo de nó. . . . . . . . . . . . . . . . . : híbrido
+   Roteamento de IP ativado. . . . . . . . . . : não
+   Proxy WINS ativado. . . . . . . . . . . . . : não
+
+Adaptador Ethernet Ethernet:
+
+   Estado da mídia. . . . . . . . . . . . . .  : mídia desconectada
+   Sufixo DNS específico de conexão. . . . . . :
+   Descrição . . . . . . . . . . . . . . . . . : Realtek PCIe GbE Family Controller
+   Endereço Físico . . . . . . . . . . . . . . : 50-A1-32-49-B2-44
+   DHCP Habilitado . . . . . . . . . . . . . . : Sim
+   Configuração Automática Habilitada. . . . . : Sim
+
+Adaptador Ethernet Ethernet 2:
+
+   Sufixo DNS específico de conexão. . . . . . :
+   Descrição . . . . . . . . . . . . . . . . . : VirtualBox Host-Only Ethernet Adapter
+   Endereço Físico . . . . . . . . . . . . . . : 0A-00-27-00-00-13
+   DHCP Habilitado . . . . . . . . . . . . . . : Não
+   Configuração Automática Habilitada. . . . . : Sim
+   Endereço IPv6 de link local . . . . . . . . : fe80::8cdc:e77e:f482:8de2%19(Preferencial)
+   Endereço IPv4 de Configuração Automática. . : 169.254.15.43(Preferencial)
+   Máscara de Sub-rede . . . . . . . . . . . . : 255.255.0.0
+   Gateway Padrão. . . . . . . . . . . . . . . :
+   IAID de DHCPv6. . . . . . . . . . . . . . . : 772407335
+   DUID de Cliente DHCPv6. . . . . . . . . . . : 00-01-00-01-2F-15-10-4C-50-A1-32-49-B2-44
+   NetBIOS em Tcpip. . . . . . . . . . . . . . : Habilitado
+
+Adaptador de Rede sem Fio Conexão Local* 1:
+
+   Estado da mídia. . . . . . . . . . . . . .  : mídia desconectada
+   Sufixo DNS específico de conexão. . . . . . :
+   Descrição . . . . . . . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter
+   Endereço Físico . . . . . . . . . . . . . . : 7E-88-99-2B-65-5E
+   DHCP Habilitado . . . . . . . . . . . . . . : Sim
+   Configuração Automática Habilitada. . . . . : Sim
+
+Adaptador de Rede sem Fio Conexão Local* 2:
+
+   Estado da mídia. . . . . . . . . . . . . .  : mídia desconectada
+   Sufixo DNS específico de conexão. . . . . . :
+   Descrição . . . . . . . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter #2
+   Endereço Físico . . . . . . . . . . . . . . : 72-88-99-2B-65-5E
+   DHCP Habilitado . . . . . . . . . . . . . . : Não
+   Configuração Automática Habilitada. . . . . : Sim
+
+Adaptador de Rede sem Fio Wi-Fi:
+
+   Sufixo DNS específico de conexão. . . . . . :
+   Descrição . . . . . . . . . . . . . . . . . : Realtek 8821CE Wireless LAN 802.11ac PCI-E NIC
+   Endereço Físico . . . . . . . . . . . . . . : 7C-88-99-2B-65-5E
+   DHCP Habilitado . . . . . . . . . . . . . . : Sim
+   Configuração Automática Habilitada. . . . . : Sim
+   Endereço IPv6 de link local . . . . . . . . : fe80::9d3:54b6:308e:6b91%20(Preferencial)
+   Endereço IPv4. . . . . . . .  . . . . . . . : 192.168.1.4(Preferencial)
+   Máscara de Sub-rede . . . . . . . . . . . . : 255.255.255.0
+   Concessão Obtida. . . . . . . . . . . . . . : segunda-feira, 2 de novembro de 2026 21:22:32
+   Concessão Expira. . . . . . . . . . . . . . : terça-feira, 3 de novembro de 2026 21:22:32
+   Gateway Padrão. . . . . . . . . . . . . . . : 192.168.1.1
+   Servidor DHCP . . . . . . . . . . . . . . . : 192.168.1.1
+   IAID de DHCPv6. . . . . . . . . . . . . . . : 159156377
+   DUID de Cliente DHCPv6. . . . . . . . . . . : 00-01-00-01-2F-15-10-4C-50-A1-32-49-B2-44
+   Servidores DNS. . . . . . . . . . . . . . . : 192.168.1.1
+   NetBIOS em Tcpip. . . . . . . . . . . . . . : Habilitado
+
+Adaptador Ethernet Conexão de Rede Bluetooth:
+
+   Estado da mídia. . . . . . . . . . . . . .  : mídia desconectada
+   Sufixo DNS específico de conexão. . . . . . :
+   Descrição . . . . . . . . . . . . . . . . . : Bluetooth Device (Personal Area Network)
+   Endereço Físico . . . . . . . . . . . . . . : 7C-88-99-2B-65-5F
+   DHCP Habilitado . . . . . . . . . . . . . . : Sim
+   Configuração Automática Habilitada. . . . . : Sim
+
+C:\Windows\System32> arp -a
+
+Interface: 169.254.15.43 --- 0x13
+  Endereço IP           Endereço físico       Tipo
+  169.254.255.255       ff-ff-ff-ff-ff-ff     estático
+  224.0.0.22            01-00-5e-00-00-16     estático
+  224.0.0.251           01-00-5e-00-00-fb     estático
+  224.0.0.252           01-00-5e-00-00-fc     estático
+  239.255.255.250       01-00-5e-7f-ff-fa     estático
+
+Interface: 192.168.1.4 --- 0x14
+  Endereço IP           Endereço físico       Tipo
+  192.168.1.1           9c-68-65-de-51-a8     dinâmico
+  192.168.1.255         ff-ff-ff-ff-ff-ff     estático
+  224.0.0.22            01-00-5e-00-00-16     estático
+  224.0.0.251           01-00-5e-00-00-fb     estático
+  224.0.0.252           01-00-5e-00-00-fc     estático
+  239.255.255.250       01-00-5e-7f-ff-fa     estático
+  255.255.255.255       ff-ff-ff-ff-ff-ff     estático
+
+C:\Windows\System32>ipconfig/release
+
+Configuração de IP do Windows
+
+Nenhuma operação pode ser executada em Ethernet enquanto a
+mídia estiver desconectada.
+Nenhuma operação pode ser executada em Conexão Local* 1 enquanto a
+mídia estiver desconectada.
+Nenhuma operação pode ser executada em Conexão de Rede Bluetooth enquanto a
+mídia estiver desconectada.
+
+Adaptador Ethernet Ethernet:
+
+   Estado da mídia. . . . . . . . . . . . . .  : mídia desconectada
+   Sufixo DNS específico de conexão. . . . . . :
+
+Adaptador Ethernet Ethernet 2:
+
+   Sufixo DNS específico de conexão. . . . . . :
+   Endereço IPv6 de link local . . . . . . . . : fe80::8cdc:e77e:f482:8de2%19
+   Endereço IPv4 de Configuração Automática. . : 169.254.15.43
+   Máscara de Sub-rede . . . . . . . . . . . . : 255.255.0.0
+   Gateway Padrão. . . . . . . . . . . . . . . :
+
+Adaptador de Rede sem Fio Conexão Local* 1:
+
+   Estado da mídia. . . . . . . . . . . . . .  : mídia desconectada
+   Sufixo DNS específico de conexão. . . . . . :
+
+Adaptador de Rede sem Fio Conexão Local* 2:
+
+   Estado da mídia. . . . . . . . . . . . . .  : mídia desconectada
+   Sufixo DNS específico de conexão. . . . . . :
+
+Adaptador de Rede sem Fio Wi-Fi:
+
+   Sufixo DNS específico de conexão. . . . . . :
+   Endereço IPv6 de link local . . . . . . . . : fe80::9d3:54b6:308e:6b91%20
+   Gateway Padrão. . . . . . . . . . . . . . . :
+
+Adaptador Ethernet Conexão de Rede Bluetooth:
+
+   Estado da mídia. . . . . . . . . . . . . .  : mídia desconectada
+   Sufixo DNS específico de conexão. . . . . . :
+
+C:\Windows\System32>ping<destino>
+A sintaxe do comando está incorreta.
+
+C:\Windows\System32>ping <destino>
+A sintaxe do comando está incorreta.
+
+C:\Windows\System32>ping 192.168.1.1
+
+Disparando 192.168.1.1 com 32 bytes de dados:
+Resposta de 192.168.1.1: bytes=32 tempo=2ms TTL=64
+Resposta de 192.168.1.1: bytes=32 tempo=2ms TTL=64
+Resposta de 192.168.1.1: bytes=32 tempo=50ms TTL=64
+Resposta de 192.168.1.1: bytes=32 tempo=17ms TTL=64
+
+Estatísticas do Ping para 192.168.1.1:
+    Pacotes: Enviados = 4, Recebidos = 4, Perdidos = 0 (0% de
+             perda),
+Aproximar um número redondo de vezes em milissegundos:
+    Mínimo = 2ms, Máximo = 50ms, Média = 17ms
+
+C:\Windows\System32>tracert<192.168.1.1>
+A sintaxe do comando está incorreta.
+
+C:\Windows\System32>tracert 192.168.1.1
+
+Rastreando a rota para 192.168.1.1 com no máximo 30 saltos
+
+  1     4 ms    27 ms     6 ms  192.168.1.1
+
+Rastreamento concluído.
+
+C:\Windows\System32>pathping 192.168.1.1
+
+Rastreando a rota para 192.168.1.1 com no máximo 30 saltos
+
+  0  DESKTOP-01TE2F2 [192.168.1.4]
+  1  192.168.1.1
+
+Calculando estatísticas para 25 segundos...
+            Origem aqui      Este nó/Vínculo
+            Perdido/Enviado  Perdido/Enviado
+Salto RTT        = Pct            = Pct       Endereço
+  0                                           DESKTOP-01TE2F2 [192.168.1.4]
+                                0/ 100 =  0%   |
+  1   12ms     0/ 100 =  0%     0/ 100 =  0%  192.168.1.1
+
+Rastreamento concluído.
+
+C:\Windows\System32>netstat 192.168.1.1
+
+Conexões ativas
+
+  Proto  Endereço local         Endereço externo       Estado
+  TCP    192.168.1.4:51558      edge-dgw-shv-02-gru1:https  ESTABLISHED
+  TCP    192.168.1.4:52452      ce-in-f188:5228        ESTABLISHED
+  TCP    192.168.1.4:55315      172.172.255.216:https  ESTABLISHED
+  TCP    192.168.1.4:57697      57.145.7.32:5222       ESTABLISHED
+  TCP    192.168.1.4:58634      edge-dgw-shv-02-gru1:https  ESTABLISHED
+  TCP    192.168.1.4:59859      instagram-p3-shv-02-gru1:https  ESTABLISHED
+  TCP    192.168.1.4:61011      edge-dgw-shv-02-gru1:https  ESTABLISHED
+  TCP    192.168.1.4:61926      edge-dgw-shv-02-gru1:https  ESTABLISHED
+Rastreamento concluído.
+
+C:\Windows\System32>netstat 192.168.1.1
+
+Conexões ativas
+
+  Proto  Endereço local         Endereço externo       Estado
+  TCP    192.168.1.4:51558      edge-dgw-shv-02-gru1:https  ESTABLISHED
+  TCP    192.168.1.4:52452      ce-in-f188:5228        ESTABLISHED
+  TCP    192.168.1.4:55315      172.172.255.216:https  ESTABLISHED
+  TCP    192.168.1.4:57697      57.145.7.32:5222       ESTABLISHED
+  TCP    192.168.1.4:58634      edge-dgw-shv-02-gru1:https  ESTABLISHED
+  TCP    192.168.1.4:59859      instagram-p3-shv-02-gru1:https  ESTABLISHED
+  TCP    192.168.1.4:61011      edge-dgw-shv-02-gru1:https  ESTABLISHED
+  TCP    192.168.1.4:61926      edge-dgw-shv-02-gru1:https  ESTABLISHED
+
+Conexões ativas
+
+  Proto  Endereço local         Endereço externo       Estado
+  TCP    192.168.1.4:51558      edge-dgw-shv-02-gru1:https  ESTABLISHED
+  TCP    192.168.1.4:52452      ce-in-f188:5228        ESTABLISHED
+  TCP    192.168.1.4:55315      172.172.255.216:https  ESTABLISHED
+  TCP    192.168.1.4:55684      server-18-67-255-196:https  ESTABLISHED
+  TCP    192.168.1.4:57697      57.145.7.32:5222       ESTABLISHED
+  TCP    192.168.1.4:58351      gru10s01-in-f2:https   TIME_WAIT
+  TCP    192.168.1.4:58634      edge-dgw-shv-02-gru1:https  ESTABLISHED
+  TCP    192.168.1.4:59859      instagram-p3-shv-02-gru1:https  ESTABLISHED
+  TCP    192.168.1.4:61011      edge-dgw-shv-02-gru1:https  ESTABLISHED
+  TCP    192.168.1.4:61213      52.168.117.173:https   TIME_WAIT
+  TCP    192.168.1.4:61900      ec2-54-201-144-171:https  CLOSE_WAIT
+  TCP    192.168.1.4:61926      edge-dgw-shv-02-gru1:https  ESTABLISHED
+  TCP    [::1]:61901            DESKTOP-01TE2F2:16450  SYN_SENT
+

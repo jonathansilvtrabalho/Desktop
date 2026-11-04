@@ -1,0 +1,1128 @@
+treno de ataque a rede Microsoft Windows [versão 10.0.26300.9711]
+(c) Microsoft Corporation. Todos os direitos reservados.
+
+C:\Windows\System32>ipconfig /flushdns
+
+Configuração de IP do Windows
+
+Liberação do Cache do DNS Resolver bem-sucedida.
+
+C:\Windows\System32>ipconfig /release
+
+Configuração de IP do Windows
+
+Nenhuma operação pode ser executada em Ethernet enquanto a
+mídia estiver desconectada.
+Nenhuma operação pode ser executada em Conexão Local* 1 enquanto a
+mídia estiver desconectada.
+
+Adaptador Ethernet Ethernet:
+
+   Estado da mídia. . . . . . . . . . . . . .  : mídia desconectada
+   Sufixo DNS específico de conexão. . . . . . :
+
+Adaptador Ethernet Ethernet 2:
+
+   Sufixo DNS específico de conexão. . . . . . :
+   Endereço IPv6 de link local . . . . . . . . : fe80::8cdc:e77e:f482:8de2%19
+   Endereço IPv4 de Configuração Automática. . : 169.254.15.43
+   Máscara de Sub-rede . . . . . . . . . . . . : 255.255.0.0
+   Gateway Padrão. . . . . . . . . . . . . . . :
+
+Adaptador de Rede sem Fio Conexão Local* 1:
+
+   Estado da mídia. . . . . . . . . . . . . .  : mídia desconectada
+   Sufixo DNS específico de conexão. . . . . . :
+
+Adaptador de Rede sem Fio Conexão Local* 2:
+
+   Estado da mídia. . . . . . . . . . . . . .  : mídia desconectada
+   Sufixo DNS específico de conexão. . . . . . :
+
+Adaptador de Rede sem Fio Wi-Fi:
+
+   Sufixo DNS específico de conexão. . . . . . :
+   Endereço IPv6 de link local . . . . . . . . : fe80::9d3:54b6:308e:6b91%20
+   Gateway Padrão. . . . . . . . . . . . . . . :
+
+C:\Windows\System32>ipconfig
+
+Configuração de IP do Windows
+
+
+Adaptador Ethernet Ethernet:
+
+   Estado da mídia. . . . . . . . . . . . . .  : mídia desconectada
+   Sufixo DNS específico de conexão. . . . . . :
+
+Adaptador Ethernet Ethernet 2:
+
+   Sufixo DNS específico de conexão. . . . . . :
+   Endereço IPv6 de link local . . . . . . . . : fe80::8cdc:e77e:f482:8de2%19
+   Endereço IPv4 de Configuração Automática. . : 169.254.15.43
+   Máscara de Sub-rede . . . . . . . . . . . . : 255.255.0.0
+   Gateway Padrão. . . . . . . . . . . . . . . :
+
+Adaptador de Rede sem Fio Conexão Local* 1:
+
+   Estado da mídia. . . . . . . . . . . . . .  : mídia desconectada
+   Sufixo DNS específico de conexão. . . . . . :
+
+Adaptador de Rede sem Fio Conexão Local* 2:
+
+   Estado da mídia. . . . . . . . . . . . . .  : mídia desconectada
+   Sufixo DNS específico de conexão. . . . . . :
+
+Adaptador de Rede sem Fio Wi-Fi:
+
+   Sufixo DNS específico de conexão. . . . . . :
+   Endereço IPv6 de link local . . . . . . . . : fe80::9d3:54b6:308e:6b91%20
+   Endereço IPv4. . . . . . . .  . . . . . . . : 192.168.1.4
+   Máscara de Sub-rede . . . . . . . . . . . . : 255.255.255.0
+   Gateway Padrão. . . . . . . . . . . . . . . : 192.168.1.1
+
+C:\Windows\System32>npm ls function-flag
+C:\Windows\System32
+`-- (empty)
+
+
+C:\Windows\System32>ipconfig/all
+
+Configuração de IP do Windows
+
+   Nome do host. . . . . . . . . . . . . . . . : DESKTOP-01TE2F2
+   Sufixo DNS primário . . . . . . . . . . . . :
+   Tipo de nó. . . . . . . . . . . . . . . . . : híbrido
+   Roteamento de IP ativado. . . . . . . . . . : não
+   Proxy WINS ativado. . . . . . . . . . . . . : não
+
+Adaptador Ethernet Ethernet:
+
+   Estado da mídia. . . . . . . . . . . . . .  : mídia desconectada
+   Sufixo DNS específico de conexão. . . . . . :
+   Descrição . . . . . . . . . . . . . . . . . : Realtek PCIe GbE Family Controller
+   Endereço Físico . . . . . . . . . . . . . . : 50-A1-32-49-B2-44
+   DHCP Habilitado . . . . . . . . . . . . . . : Sim
+   Configuração Automática Habilitada. . . . . : Sim
+
+Adaptador Ethernet Ethernet 2:
+
+   Sufixo DNS específico de conexão. . . . . . :
+   Descrição . . . . . . . . . . . . . . . . . : VirtualBox Host-Only Ethernet Adapter
+   Endereço Físico . . . . . . . . . . . . . . : 0A-00-27-00-00-13
+   DHCP Habilitado . . . . . . . . . . . . . . : Não
+   Configuração Automática Habilitada. . . . . : Sim
+   Endereço IPv6 de link local . . . . . . . . : fe80::8cdc:e77e:f482:8de2%19(Preferencial)
+   Endereço IPv4 de Configuração Automática. . : 169.254.15.43(Preferencial)
+   Máscara de Sub-rede . . . . . . . . . . . . : 255.255.0.0
+   Gateway Padrão. . . . . . . . . . . . . . . :
+   IAID de DHCPv6. . . . . . . . . . . . . . . : 772407335
+   DUID de Cliente DHCPv6. . . . . . . . . . . : 00-01-00-01-2F-15-10-4C-50-A1-32-49-B2-44
+   NetBIOS em Tcpip. . . . . . . . . . . . . . : Habilitado
+
+Adaptador de Rede sem Fio Conexão Local* 1:
+
+   Estado da mídia. . . . . . . . . . . . . .  : mídia desconectada
+   Sufixo DNS específico de conexão. . . . . . :
+   Descrição . . . . . . . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter
+   Endereço Físico . . . . . . . . . . . . . . : 7E-88-99-2B-65-5E
+   DHCP Habilitado . . . . . . . . . . . . . . : Sim
+   Configuração Automática Habilitada. . . . . : Sim
+
+Adaptador de Rede sem Fio Conexão Local* 2:
+
+   Estado da mídia. . . . . . . . . . . . . .  : mídia desconectada
+   Sufixo DNS específico de conexão. . . . . . :
+   Descrição . . . . . . . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter #2
+   Endereço Físico . . . . . . . . . . . . . . : 72-88-99-2B-65-5E
+   DHCP Habilitado . . . . . . . . . . . . . . : Não
+   Configuração Automática Habilitada. . . . . : Sim
+
+Adaptador de Rede sem Fio Wi-Fi:
+
+   Sufixo DNS específico de conexão. . . . . . :
+   Descrição . . . . . . . . . . . . . . . . . : Realtek 8821CE Wireless LAN 802.11ac PCI-E NIC
+   Endereço Físico . . . . . . . . . . . . . . : 7C-88-99-2B-65-5E
+   DHCP Habilitado . . . . . . . . . . . . . . : Sim
+   Configuração Automática Habilitada. . . . . : Sim
+   Endereço IPv6 de link local . . . . . . . . : fe80::9d3:54b6:308e:6b91%20(Preferencial)
+   Endereço IPv4. . . . . . . .  . . . . . . . : 192.168.1.4(Preferencial)
+   Máscara de Sub-rede . . . . . . . . . . . . : 255.255.255.0
+   Concessão Obtida. . . . . . . . . . . . . . : segunda-feira, 2 de novembro de 2026 21:22:32
+   Concessão Expira. . . . . . . . . . . . . . : terça-feira, 3 de novembro de 2026 21:22:32
+   Gateway Padrão. . . . . . . . . . . . . . . : 192.168.1.1
+   Servidor DHCP . . . . . . . . . . . . . . . : 192.168.1.1
+   IAID de DHCPv6. . . . . . . . . . . . . . . : 159156377
+   DUID de Cliente DHCPv6. . . . . . . . . . . : 00-01-00-01-2F-15-10-4C-50-A1-32-49-B2-44
+   Servidores DNS. . . . . . . . . . . . . . . : 192.168.1.1
+   NetBIOS em Tcpip. . . . . . . . . . . . . . : Habilitado
+
+Adaptador Ethernet Conexão de Rede Bluetooth:
+
+   Estado da mídia. . . . . . . . . . . . . .  : mídia desconectada
+   Sufixo DNS específico de conexão. . . . . . :
+   Descrição . . . . . . . . . . . . . . . . . : Bluetooth Device (Personal Area Network)
+   Endereço Físico . . . . . . . . . . . . . . : 7C-88-99-2B-65-5F
+   DHCP Habilitado . . . . . . . . . . . . . . : Sim
+   Configuração Automática Habilitada. . . . . : Sim
+
+C:\Windows\System32> arp -a
+
+Interface: 169.254.15.43 --- 0x13
+  Endereço IP           Endereço físico       Tipo
+  169.254.255.255       ff-ff-ff-ff-ff-ff     estático
+  224.0.0.22            01-00-5e-00-00-16     estático
+  224.0.0.251           01-00-5e-00-00-fb     estático
+  224.0.0.252           01-00-5e-00-00-fc     estático
+  239.255.255.250       01-00-5e-7f-ff-fa     estático
+
+Interface: 192.168.1.4 --- 0x14
+  Endereço IP           Endereço físico       Tipo
+  192.168.1.1           9c-68-65-de-51-a8     dinâmico
+  192.168.1.255         ff-ff-ff-ff-ff-ff     estático
+  224.0.0.22            01-00-5e-00-00-16     estático
+  224.0.0.251           01-00-5e-00-00-fb     estático
+  224.0.0.252           01-00-5e-00-00-fc     estático
+  239.255.255.250       01-00-5e-7f-ff-fa     estático
+  255.255.255.255       ff-ff-ff-ff-ff-ff     estático
+
+C:\Windows\System32>ipconfig/release
+
+Configuração de IP do Windows
+
+Nenhuma operação pode ser executada em Ethernet enquanto a
+mídia estiver desconectada.
+Nenhuma operação pode ser executada em Conexão Local* 1 enquanto a
+mídia estiver desconectada.
+Nenhuma operação pode ser executada em Conexão de Rede Bluetooth enquanto a
+mídia estiver desconectada.
+
+Adaptador Ethernet Ethernet:
+
+   Estado da mídia. . . . . . . . . . . . . .  : mídia desconectada
+   Sufixo DNS específico de conexão. . . . . . :
+
+Adaptador Ethernet Ethernet 2:
+
+   Sufixo DNS específico de conexão. . . . . . :
+   Endereço IPv6 de link local . . . . . . . . : fe80::8cdc:e77e:f482:8de2%19
+   Endereço IPv4 de Configuração Automática. . : 169.254.15.43
+   Máscara de Sub-rede . . . . . . . . . . . . : 255.255.0.0
+   Gateway Padrão. . . . . . . . . . . . . . . :
+
+Adaptador de Rede sem Fio Conexão Local* 1:
+
+   Estado da mídia. . . . . . . . . . . . . .  : mídia desconectada
+   Sufixo DNS específico de conexão. . . . . . :
+
+Adaptador de Rede sem Fio Conexão Local* 2:
+
+   Estado da mídia. . . . . . . . . . . . . .  : mídia desconectada
+   Sufixo DNS específico de conexão. . . . . . :
+
+Adaptador de Rede sem Fio Wi-Fi:
+
+   Sufixo DNS específico de conexão. . . . . . :
+   Endereço IPv6 de link local . . . . . . . . : fe80::9d3:54b6:308e:6b91%20
+   Gateway Padrão. . . . . . . . . . . . . . . :
+
+Adaptador Ethernet Conexão de Rede Bluetooth:
+
+   Estado da mídia. . . . . . . . . . . . . .  : mídia desconectada
+   Sufixo DNS específico de conexão. . . . . . :
+
+C:\Windows\System32>ping<destino>
+A sintaxe do comando está incorreta.
+
+C:\Windows\System32>ping <destino>
+A sintaxe do comando está incorreta.
+
+C:\Windows\System32>ping 192.168.1.1
+
+Disparando 192.168.1.1 com 32 bytes de dados:
+Resposta de 192.168.1.1: bytes=32 tempo=2ms TTL=64
+Resposta de 192.168.1.1: bytes=32 tempo=2ms TTL=64
+Resposta de 192.168.1.1: bytes=32 tempo=50ms TTL=64
+Resposta de 192.168.1.1: bytes=32 tempo=17ms TTL=64
+
+Estatísticas do Ping para 192.168.1.1:
+    Pacotes: Enviados = 4, Recebidos = 4, Perdidos = 0 (0% de
+             perda),
+Aproximar um número redondo de vezes em milissegundos:
+    Mínimo = 2ms, Máximo = 50ms, Média = 17ms
+
+C:\Windows\System32>tracert<192.168.1.1>
+A sintaxe do comando está incorreta.
+
+C:\Windows\System32>tracert 192.168.1.1
+
+Rastreando a rota para 192.168.1.1 com no máximo 30 saltos
+
+  1     4 ms    27 ms     6 ms  192.168.1.1
+
+Rastreamento concluído.
+
+C:\Windows\System32>pathping 192.168.1.1
+
+Rastreando a rota para 192.168.1.1 com no máximo 30 saltos
+
+  0  DESKTOP-01TE2F2 [192.168.1.4]
+  1  192.168.1.1
+
+Calculando estatísticas para 25 segundos...
+            Origem aqui      Este nó/Vínculo
+            Perdido/Enviado  Perdido/Enviado
+Salto RTT        = Pct            = Pct       Endereço
+  0                                           DESKTOP-01TE2F2 [192.168.1.4]
+                                0/ 100 =  0%   |
+  1   12ms     0/ 100 =  0%     0/ 100 =  0%  192.168.1.1
+
+Rastreamento concluído.
+
+C:\Windows\System32>netstat 192.168.1.1
+
+Conexões ativas
+
+  Proto  Endereço local         Endereço externo       Estado
+  TCP    192.168.1.4:51558      edge-dgw-shv-02-gru1:https  ESTABLISHED
+  TCP    192.168.1.4:52452      ce-in-f188:5228        ESTABLISHED
+  TCP    192.168.1.4:55315      172.172.255.216:https  ESTABLISHED
+  TCP    192.168.1.4:57697      57.145.7.32:5222       ESTABLISHED
+  TCP    192.168.1.4:58634      edge-dgw-shv-02-gru1:https  ESTABLISHED
+  TCP    192.168.1.4:59859      instagram-p3-shv-02-gru1:https  ESTABLISHED
+  TCP    192.168.1.4:61011      edge-dgw-shv-02-gru1:https  ESTABLISHED
+  TCP    192.168.1.4:61926      edge-dgw-shv-02-gru1:https  ESTABLISHED
+
+Microsoft Windows [versão 10.0.26300.9711]
+(c) Microsoft Corporation. Todos os direitos reservados.
+
+C:\Windows\System32>ipconfig /flushdns
+
+Configuração de IP do Windows
+
+Liberação do Cache do DNS Resolver bem-sucedida.
+
+C:\Windows\System32>ipconfig /release
+
+Configuração de IP do Windows
+
+Nenhuma operação pode ser executada em Ethernet enquanto a
+mídia estiver desconectada.
+Nenhuma operação pode ser executada em Conexão Local* 1 enquanto a
+mídia estiver desconectada.
+
+Adaptador Ethernet Ethernet:
+
+   Estado da mídia. . . . . . . . . . . . . .  : mídia desconectada
+   Sufixo DNS específico de conexão. . . . . . :
+
+Adaptador Ethernet Ethernet 2:
+
+   Sufixo DNS específico de conexão. . . . . . :
+   Endereço IPv6 de link local . . . . . . . . : fe80::8cdc:e77e:f482:8de2%19
+   Endereço IPv4 de Configuração Automática. . : 169.254.15.43
+   Máscara de Sub-rede . . . . . . . . . . . . : 255.255.0.0
+   Gateway Padrão. . . . . . . . . . . . . . . :
+
+Adaptador de Rede sem Fio Conexão Local* 1:
+
+   Estado da mídia. . . . . . . . . . . . . .  : mídia desconectada
+   Sufixo DNS específico de conexão. . . . . . :
+
+Adaptador de Rede sem Fio Conexão Local* 2:
+
+   Estado da mídia. . . . . . . . . . . . . .  : mídia desconectada
+   Sufixo DNS específico de conexão. . . . . . :
+
+Adaptador de Rede sem Fio Wi-Fi:
+
+   Sufixo DNS específico de conexão. . . . . . :
+   Endereço IPv6 de link local . . . . . . . . : fe80::9d3:54b6:308e:6b91%20
+   Gateway Padrão. . . . . . . . . . . . . . . :
+
+C:\Windows\System32>ipconfig
+
+Configuração de IP do Windows
+
+
+Adaptador Ethernet Ethernet:
+
+   Estado da mídia. . . . . . . . . . . . . .  : mídia desconectada
+   Sufixo DNS específico de conexão. . . . . . :
+
+Adaptador Ethernet Ethernet 2:
+
+   Sufixo DNS específico de conexão. . . . . . :
+   Endereço IPv6 de link local . . . . . . . . : fe80::8cdc:e77e:f482:8de2%19
+   Endereço IPv4 de Configuração Automática. . : 169.254.15.43
+   Máscara de Sub-rede . . . . . . . . . . . . : 255.255.0.0
+   Gateway Padrão. . . . . . . . . . . . . . . :
+
+Adaptador de Rede sem Fio Conexão Local* 1:
+
+   Estado da mídia. . . . . . . . . . . . . .  : mídia desconectada
+   Sufixo DNS específico de conexão. . . . . . :
+
+Adaptador de Rede sem Fio Conexão Local* 2:
+
+   Estado da mídia. . . . . . . . . . . . . .  : mídia desconectada
+   Sufixo DNS específico de conexão. . . . . . :
+
+Adaptador de Rede sem Fio Wi-Fi:
+
+   Sufixo DNS específico de conexão. . . . . . :
+   Endereço IPv6 de link local . . . . . . . . : fe80::9d3:54b6:308e:6b91%20
+   Endereço IPv4. . . . . . . .  . . . . . . . : 192.168.1.4
+   Máscara de Sub-rede . . . . . . . . . . . . : 255.255.255.0
+   Gateway Padrão. . . . . . . . . . . . . . . : 192.168.1.1
+
+C:\Windows\System32>npm ls function-flag
+C:\Windows\System32
+`-- (empty)
+
+
+C:\Windows\System32>ipconfig/all
+
+Configuração de IP do Windows
+
+   Nome do host. . . . . . . . . . . . . . . . : DESKTOP-01TE2F2
+   Sufixo DNS primário . . . . . . . . . . . . :
+   Tipo de nó. . . . . . . . . . . . . . . . . : híbrido
+   Roteamento de IP ativado. . . . . . . . . . : não
+   Proxy WINS ativado. . . . . . . . . . . . . : não
+
+Adaptador Ethernet Ethernet:
+
+   Estado da mídia. . . . . . . . . . . . . .  : mídia desconectada
+   Sufixo DNS específico de conexão. . . . . . :
+   Descrição . . . . . . . . . . . . . . . . . : Realtek PCIe GbE Family Controller
+   Endereço Físico . . . . . . . . . . . . . . : 50-A1-32-49-B2-44
+   DHCP Habilitado . . . . . . . . . . . . . . : Sim
+   Configuração Automática Habilitada. . . . . : Sim
+
+Adaptador Ethernet Ethernet 2:
+
+   Sufixo DNS específico de conexão. . . . . . :
+   Descrição . . . . . . . . . . . . . . . . . : VirtualBox Host-Only Ethernet Adapter
+   Endereço Físico . . . . . . . . . . . . . . : 0A-00-27-00-00-13
+   DHCP Habilitado . . . . . . . . . . . . . . : Não
+   Configuração Automática Habilitada. . . . . : Sim
+   Endereço IPv6 de link local . . . . . . . . : fe80::8cdc:e77e:f482:8de2%19(Preferencial)
+   Endereço IPv4 de Configuração Automática. . : 169.254.15.43(Preferencial)
+   Máscara de Sub-rede . . . . . . . . . . . . : 255.255.0.0
+   Gateway Padrão. . . . . . . . . . . . . . . :
+   IAID de DHCPv6. . . . . . . . . . . . . . . : 772407335
+   DUID de Cliente DHCPv6. . . . . . . . . . . : 00-01-00-01-2F-15-10-4C-50-A1-32-49-B2-44
+   NetBIOS em Tcpip. . . . . . . . . . . . . . : Habilitado
+
+Adaptador de Rede sem Fio Conexão Local* 1:
+
+   Estado da mídia. . . . . . . . . . . . . .  : mídia desconectada
+   Sufixo DNS específico de conexão. . . . . . :
+   Descrição . . . . . . . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter
+   Endereço Físico . . . . . . . . . . . . . . : 7E-88-99-2B-65-5E
+   DHCP Habilitado . . . . . . . . . . . . . . : Sim
+   Configuração Automática Habilitada. . . . . : Sim
+
+Adaptador de Rede sem Fio Conexão Local* 2:
+
+   Estado da mídia. . . . . . . . . . . . . .  : mídia desconectada
+   Sufixo DNS específico de conexão. . . . . . :
+   Descrição . . . . . . . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter #2
+   Endereço Físico . . . . . . . . . . . . . . : 72-88-99-2B-65-5E
+   DHCP Habilitado . . . . . . . . . . . . . . : Não
+   Configuração Automática Habilitada. . . . . : Sim
+
+Adaptador de Rede sem Fio Wi-Fi:
+
+   Sufixo DNS específico de conexão. . . . . . :
+   Descrição . . . . . . . . . . . . . . . . . : Realtek 8821CE Wireless LAN 802.11ac PCI-E NIC
+   Endereço Físico . . . . . . . . . . . . . . : 7C-88-99-2B-65-5E
+   DHCP Habilitado . . . . . . . . . . . . . . : Sim
+   Configuração Automática Habilitada. . . . . : Sim
+   Endereço IPv6 de link local . . . . . . . . : fe80::9d3:54b6:308e:6b91%20(Preferencial)
+   Endereço IPv4. . . . . . . .  . . . . . . . : 192.168.1.4(Preferencial)
+   Máscara de Sub-rede . . . . . . . . . . . . : 255.255.255.0
+   Concessão Obtida. . . . . . . . . . . . . . : segunda-feira, 2 de novembro de 2026 21:22:32
+   Concessão Expira. . . . . . . . . . . . . . : terça-feira, 3 de novembro de 2026 21:22:32
+   Gateway Padrão. . . . . . . . . . . . . . . : 192.168.1.1
+   Servidor DHCP . . . . . . . . . . . . . . . : 192.168.1.1
+   IAID de DHCPv6. . . . . . . . . . . . . . . : 159156377
+   DUID de Cliente DHCPv6. . . . . . . . . . . : 00-01-00-01-2F-15-10-4C-50-A1-32-49-B2-44
+   Servidores DNS. . . . . . . . . . . . . . . : 192.168.1.1
+   NetBIOS em Tcpip. . . . . . . . . . . . . . : Habilitado
+
+Adaptador Ethernet Conexão de Rede Bluetooth:
+
+   Estado da mídia. . . . . . . . . . . . . .  : mídia desconectada
+   Sufixo DNS específico de conexão. . . . . . :
+   Descrição . . . . . . . . . . . . . . . . . : Bluetooth Device (Personal Area Network)
+   Endereço Físico . . . . . . . . . . . . . . : 7C-88-99-2B-65-5F
+   DHCP Habilitado . . . . . . . . . . . . . . : Sim
+   Configuração Automática Habilitada. . . . . : Sim
+
+C:\Windows\System32> arp -a
+
+Interface: 169.254.15.43 --- 0x13
+  Endereço IP           Endereço físico       Tipo
+  169.254.255.255       ff-ff-ff-ff-ff-ff     estático
+  224.0.0.22            01-00-5e-00-00-16     estático
+  224.0.0.251           01-00-5e-00-00-fb     estático
+  224.0.0.252           01-00-5e-00-00-fc     estático
+  239.255.255.250       01-00-5e-7f-ff-fa     estático
+
+Interface: 192.168.1.4 --- 0x14
+  Endereço IP           Endereço físico       Tipo
+  192.168.1.1           9c-68-65-de-51-a8     dinâmico
+  192.168.1.255         ff-ff-ff-ff-ff-ff     estático
+  224.0.0.22            01-00-5e-00-00-16     estático
+  224.0.0.251           01-00-5e-00-00-fb     estático
+  224.0.0.252           01-00-5e-00-00-fc     estático
+  239.255.255.250       01-00-5e-7f-ff-fa     estático
+  255.255.255.255       ff-ff-ff-ff-ff-ff     estático
+
+C:\Windows\System32>ipconfig/release
+
+Configuração de IP do Windows
+
+Nenhuma operação pode ser executada em Ethernet enquanto a
+mídia estiver desconectada.
+Nenhuma operação pode ser executada em Conexão Local* 1 enquanto a
+mídia estiver desconectada.
+Nenhuma operação pode ser executada em Conexão de Rede Bluetooth enquanto a
+mídia estiver desconectada.
+
+Adaptador Ethernet Ethernet:
+
+   Estado da mídia. . . . . . . . . . . . . .  : mídia desconectada
+   Sufixo DNS específico de conexão. . . . . . :
+
+Adaptador Ethernet Ethernet 2:
+
+   Sufixo DNS específico de conexão. . . . . . :
+   Endereço IPv6 de link local . . . . . . . . : fe80::8cdc:e77e:f482:8de2%19
+   Endereço IPv4 de Configuração Automática. . : 169.254.15.43
+   Máscara de Sub-rede . . . . . . . . . . . . : 255.255.0.0
+   Gateway Padrão. . . . . . . . . . . . . . . :
+
+Adaptador de Rede sem Fio Conexão Local* 1:
+
+   Estado da mídia. . . . . . . . . . . . . .  : mídia desconectada
+   Sufixo DNS específico de conexão. . . . . . :
+
+Adaptador de Rede sem Fio Conexão Local* 2:
+
+   Estado da mídia. . . . . . . . . . . . . .  : mídia desconectada
+   Sufixo DNS específico de conexão. . . . . . :
+
+Adaptador de Rede sem Fio Wi-Fi:
+
+   Sufixo DNS específico de conexão. . . . . . :
+   Endereço IPv6 de link local . . . . . . . . : fe80::9d3:54b6:308e:6b91%20
+   Gateway Padrão. . . . . . . . . . . . . . . :
+
+Adaptador Ethernet Conexão de Rede Bluetooth:
+
+   Estado da mídia. . . . . . . . . . . . . .  : mídia desconectada
+   Sufixo DNS específico de conexão. . . . . . :
+
+C:\Windows\System32>ping<destino>
+A sintaxe do comando está incorreta.
+
+C:\Windows\System32>ping <destino>
+A sintaxe do comando está incorreta.
+
+C:\Windows\System32>ping 192.168.1.1
+
+Disparando 192.168.1.1 com 32 bytes de dados:
+Resposta de 192.168.1.1: bytes=32 tempo=2ms TTL=64
+Resposta de 192.168.1.1: bytes=32 tempo=2ms TTL=64
+Resposta de 192.168.1.1: bytes=32 tempo=50ms TTL=64
+Resposta de 192.168.1.1: bytes=32 tempo=17ms TTL=64
+
+Estatísticas do Ping para 192.168.1.1:
+    Pacotes: Enviados = 4, Recebidos = 4, Perdidos = 0 (0% de
+             perda),
+Aproximar um número redondo de vezes em milissegundos:
+    Mínimo = 2ms, Máximo = 50ms, Média = 17ms
+
+C:\Windows\System32>tracert<192.168.1.1>
+A sintaxe do comando está incorreta.
+
+C:\Windows\System32>tracert 192.168.1.1
+
+Rastreando a rota para 192.168.1.1 com no máximo 30 saltos
+
+  1     4 ms    27 ms     6 ms  192.168.1.1
+
+Rastreamento concluído.
+
+C:\Windows\System32>pathping 192.168.1.1
+
+Rastreando a rota para 192.168.1.1 com no máximo 30 saltos
+
+  0  DESKTOP-01TE2F2 [192.168.1.4]
+  1  192.168.1.1
+
+Calculando estatísticas para 25 segundos...
+            Origem aqui      Este nó/Vínculo
+            Perdido/Enviado  Perdido/Enviado
+Salto RTT        = Pct            = Pct       Endereço
+  0                                           DESKTOP-01TE2F2 [192.168.1.4]
+                                0/ 100 =  0%   |
+  1   12ms     0/ 100 =  0%     0/ 100 =  0%  192.168.1.1
+
+Rastreamento concluído.
+
+C:\Windows\System32>netstat 192.168.1.1
+
+Conexões ativas
+
+  Proto  Endereço local         Endereço externo       Estado
+  TCP    192.168.1.4:51558      edge-dgw-shv-02-gru1:https  ESTABLISHED
+  TCP    192.168.1.4:52452      ce-in-f188:5228        ESTABLISHED
+  TCP    192.168.1.4:55315      172.172.255.216:https  ESTABLISHED
+  TCP    192.168.1.4:57697      57.145.7.32:5222       ESTABLISHED
+  TCP    192.168.1.4:58634      edge-dgw-shv-02-gru1:https  ESTABLISHED
+  TCP    192.168.1.4:59859      instagram-p3-shv-02-gru1:https  ESTABLISHED
+  TCP    192.168.1.4:61011      edge-dgw-shv-02-gru1:https  ESTABLISHED
+  TCP    192.168.1.4:61926      edge-dgw-shv-02-gru1:https  ESTABLISHED
+Rastreamento concluído.
+
+C:\Windows\System32>netstat 192.168.1.1
+
+Conexões ativas
+
+  Proto  Endereço local         Endereço externo       Estado
+  TCP    192.168.1.4:51558      edge-dgw-shv-02-gru1:https  ESTABLISHED
+  TCP    192.168.1.4:52452      ce-in-f188:5228        ESTABLISHED
+  TCP    192.168.1.4:55315      172.172.255.216:https  ESTABLISHED
+  TCP    192.168.1.4:57697      57.145.7.32:5222       ESTABLISHED
+  TCP    192.168.1.4:58634      edge-dgw-shv-02-gru1:https  ESTABLISHED
+  TCP    192.168.1.4:59859      instagram-p3-shv-02-gru1:https  ESTABLISHED
+  TCP    192.168.1.4:61011      edge-dgw-shv-02-gru1:https  ESTABLISHED
+  TCP    192.168.1.4:61926      edge-dgw-shv-02-gru1:https  ESTABLISHED
+
+Conexões ativas
+
+  Proto  Endereço local         Endereço externo       Estado
+  TCP    192.168.1.4:51558      edge-dgw-shv-02-gru1:https  ESTABLISHED
+  TCP    192.168.1.4:52452      ce-in-f188:5228        ESTABLISHED
+  TCP    192.168.1.4:55315      172.172.255.216:https  ESTABLISHED
+  TCP    192.168.1.4:55684      server-18-67-255-196:https  ESTABLISHED
+  TCP    192.168.1.4:57697      57.145.7.32:5222       ESTABLISHED
+  TCP    192.168.1.4:58351      gru10s01-in-f2:https   TIME_WAIT
+  TCP    192.168.1.4:58634      edge-dgw-shv-02-gru1:https  ESTABLISHED
+  TCP    192.168.1.4:59859      instagram-p3-shv-02-gru1:https  ESTABLISHED
+  TCP    192.168.1.4:61011      edge-dgw-shv-02-gru1:https  ESTABLISHED
+  TCP    192.168.1.4:61213      52.168.117.173:https   TIME_WAIT
+  TCP    192.168.1.4:61900      ec2-54-201-144-171:https  CLOSE_WAIT
+  TCP    192.168.1.4:61926      edge-dgw-shv-02-gru1:https  ESTABLISHED
+  TCP    [::1]:61901            DESKTOP-01TE2F2:16450  SYN_SENT
+
+
+C:\Users\jonat>netstat -a
+
+Conexões ativas
+
+  Proto  Endereço local         Endereço externo       Estado
+  TCP    0.0.0.0:135            DESKTOP-01TE2F2:0      LISTENING
+  TCP    0.0.0.0:445            DESKTOP-01TE2F2:0      LISTENING
+  TCP    0.0.0.0:2383           DESKTOP-01TE2F2:0      LISTENING
+  TCP    0.0.0.0:5040           DESKTOP-01TE2F2:0      LISTENING
+  TCP    0.0.0.0:5357           DESKTOP-01TE2F2:0      LISTENING
+  TCP    0.0.0.0:7680           DESKTOP-01TE2F2:0      LISTENING
+  TCP    0.0.0.0:49664          DESKTOP-01TE2F2:0      LISTENING
+  TCP    0.0.0.0:49665          DESKTOP-01TE2F2:0      LISTENING
+  TCP    0.0.0.0:49666          DESKTOP-01TE2F2:0      LISTENING
+  TCP    0.0.0.0:49667          DESKTOP-01TE2F2:0      LISTENING
+  TCP    0.0.0.0:49668          DESKTOP-01TE2F2:0      LISTENING
+  TCP    0.0.0.0:49669          DESKTOP-01TE2F2:0      LISTENING
+  TCP    127.0.0.1:1434         DESKTOP-01TE2F2:0      LISTENING
+  TCP    127.0.0.1:27017        DESKTOP-01TE2F2:0      LISTENING
+  TCP    127.0.0.1:51519        DESKTOP-01TE2F2:0      LISTENING
+  TCP    169.254.15.43:139      DESKTOP-01TE2F2:0      LISTENING
+  TCP    192.168.1.4:139        DESKTOP-01TE2F2:0      LISTENING
+  TCP    192.168.1.4:51558      edge-dgw-shv-02-gru1:https  ESTABLISHED
+  TCP    192.168.1.4:52452      ce-in-f188:5228        ESTABLISHED
+  TCP    192.168.1.4:55315      172.172.255.216:https  ESTABLISHED
+  TCP    192.168.1.4:55684      server-18-67-255-196:https  TIME_WAIT
+  TCP    192.168.1.4:57697      57.145.7.32:5222       ESTABLISHED
+  TCP    192.168.1.4:57868      172.67.207.159:https   ESTABLISHED
+  TCP    192.168.1.4:58634      edge-dgw-shv-02-gru1:https  ESTABLISHED
+  TCP    192.168.1.4:59859      instagram-p3-shv-02-gru1:https  ESTABLISHED
+  TCP    192.168.1.4:61011      edge-dgw-shv-02-gru1:https  ESTABLISHED
+  TCP    192.168.1.4:61903      20.190.173.65:https    TIME_WAIT
+  TCP    192.168.1.4:61904      52.97.19.130:https     ESTABLISHED
+  TCP    192.168.1.4:61910      20.184.175.7:https     TIME_WAIT
+  TCP    192.168.1.4:61926      edge-dgw-shv-02-gru1:https  ESTABLISHED
+  TCP    [::]:135               DESKTOP-01TE2F2:0      LISTENING
+  TCP    [::]:445               DESKTOP-01TE2F2:0      LISTENING
+  TCP    [::]:2383              DESKTOP-01TE2F2:0      LISTENING
+  TCP    [::]:5357              DESKTOP-01TE2F2:0      LISTENING
+  TCP    [::]:7680              DESKTOP-01TE2F2:0      LISTENING
+  TCP    [::]:49664             DESKTOP-01TE2F2:0      LISTENING
+  TCP    [::]:49665             DESKTOP-01TE2F2:0      LISTENING
+  TCP    [::]:49666             DESKTOP-01TE2F2:0      LISTENING
+  TCP    [::]:49667             DESKTOP-01TE2F2:0      LISTENING
+  TCP    [::]:49668             DESKTOP-01TE2F2:0      LISTENING
+  TCP    [::]:49669             DESKTOP-01TE2F2:0      LISTENING
+  TCP    [::1]:1434             DESKTOP-01TE2F2:0      LISTENING
+  TCP    [::1]:42050            DESKTOP-01TE2F2:0      LISTENING
+  TCP    [::1]:51519            DESKTOP-01TE2F2:0      LISTENING
+  UDP    0.0.0.0:3702           *:*
+  UDP    0.0.0.0:3702           *:*
+  UDP    0.0.0.0:5050           *:*
+  UDP    0.0.0.0:5353           *:*
+  UDP    0.0.0.0:5353           *:*
+  UDP    0.0.0.0:5353           *:*
+  UDP    0.0.0.0:5353           *:*
+  UDP    0.0.0.0:5353           *:*
+  UDP    0.0.0.0:5355           *:*
+  UDP    0.0.0.0:49819          *:*
+  UDP    0.0.0.0:50554          142.251.145.6:443
+  UDP    0.0.0.0:52997          172.217.116.4:443
+  UDP    0.0.0.0:53659          104.237.168.25:443
+  UDP    0.0.0.0:53664          157.240.226.174:443
+  UDP    0.0.0.0:55064          142.251.151.119:443
+  UDP    0.0.0.0:55830          *:*
+  UDP    0.0.0.0:56971          142.251.153.4:443
+  UDP    0.0.0.0:61506          142.251.0.132:443
+  UDP    0.0.0.0:63904          *:*
+  UDP    127.0.0.1:1900         *:*
+  UDP    127.0.0.1:50022        *:*
+  UDP    127.0.0.1:57146        127.0.0.1:57146
+  UDP    169.254.15.43:137      *:*
+  UDP    169.254.15.43:138      *:*
+  UDP    169.254.15.43:1900     *:*
+  UDP    169.254.15.43:50020    *:*
+  UDP    192.168.1.4:137        *:*
+  UDP    192.168.1.4:138        *:*
+  UDP    192.168.1.4:1900       *:*
+  UDP    192.168.1.4:50021      *:*
+  UDP    [::]:3702              *:*
+  UDP    [::]:3702              *:*
+  UDP    [::]:5353              *:*
+  UDP    [::]:5353              *:*
+  UDP    [::]:5353              *:*
+  UDP    [::]:5355              *:*
+  UDP    [::]:49820             *:*
+  UDP    [::]:55830             *:*
+  UDP    [::]:63904             *:*
+  UDP    [::1]:1900             *:*
+  UDP    [::1]:50019            *:*
+  UDP    [fe80::9d3:54b6:308e:6b91%20]:1900  *:*
+  UDP    [fe80::9d3:54b6:308e:6b91%20]:50018  *:*
+  UDP    [fe80::8cdc:e77e:f482:8de2%19]:1900  *:*
+  UDP    [fe80::8cdc:e77e:f482:8de2%19]:50017  *:*
+
+C:\Users\jonat>systeminfo
+
+Nome do host:                              DESKTOP-01TE2F2
+Nome do sistema operacional:               Microsoft Windows 11 Home
+Versão do sistema operacional:             10.0.26300 N/A compilação 26300
+Fabricante do sistema operacional:         Microsoft Corporation
+Configuração do sistema operacional:       Estação de trabalho autônoma
+Tipo de compilação do sistema operacional: Multiprocessor Free
+Proprietário registrado:                   jonathansilva.lima@hotmail.com
+Organização registrada:                    N/A
+Identificação do produto:                  00326-10000-00000-AA868
+Data da instalação original:               10/02/2026, 22:56:59
+Tempo de Inicialização do Sistema:         02/11/2026, 21:17:52
+Fabricante do sistema:                     Positivo Bahia - VAIO
+Modelo do sistema:                         VJFE59F11X-B0411H
+Tipo de sistema:                           x64-based PC
+Processador(es):                           1 processador(es) instalado(s).
+                                           [01]: AMD64 Family 23 Model 104 Stepping 1 AuthenticAMD ~2100 Mhz
+Versão do BIOS:                              V1.21.X, 13/12/2022
+Diretório do Windows:                      C:\WINDOWS
+Diretório do sistema:                      C:\WINDOWS\system32
+Dispositivo de inicialização:              \Device\HarddiskVolume1
+Localidade do sistema:                     pt-br;Português (Brasil)
+Localidade de entrada:                     pt-br;Português (Brasil)
+Fuso horário:                              (UTC-03:00) Brasília
+Memória física total:                      7.563 MB
+Memória física disponível:                 2.382 MB
+Memória Virtual: Tamanho Máximo:           16.779 MB
+Memória Virtual: Disponível:               8.537 MB
+Memória Virtual: Em Uso:                   8.242 MB
+Local(s) do Arquivo de Página:             C:\pagefile.sys
+Domínio:                                   WORKGROUP
+Servidor de Logon:                         \\DESKTOP-01TE2F2
+Hotfix(es):                                6 hotfix(es) instalado(s).
+                                           [01]: KB5127694
+                                           [02]: KB5054156
+                                           [03]: KB5121794
+                                           [04]: KB5127648
+                                           [05]: KB5124009
+                                           [06]: KB5127647
+Placa(s) de Rede:                          4 NIC(s) instalado(s).
+                                           [01]: Realtek PCIe GbE Family Controller
+                                                 Nome da conexão: Ethernet
+                                                 Status:          Mídia desconectada
+                                           [02]: Realtek 8821CE Wireless LAN 802.11ac PCI-E NIC
+                                                 Nome da conexão: Wi-Fi
+                                                 DHCP ativado:    Sim
+                                                 Servidor DHCP:   192.168.1.1
+                                                 Endereço(es) IP
+                                                 [01]: 192.168.1.4
+                                                 [02]: fe80::9d3:54b6:308e:6b91
+                                           [03]: Bluetooth Device (Personal Area Network)
+                                                 Nome da conexão: Conexão de Rede Bluetooth
+                                                 Status:          Mídia desconectada
+                                           [04]: VirtualBox Host-Only Ethernet Adapter
+                                                 Nome da conexão: Ethernet 2
+                                                 DHCP ativado:    Não
+                                                 Endereço(es) IP
+                                                 [01]: 169.254.15.43
+                                                 [02]: fe80::8cdc:e77e:f482:8de2
+Segurança baseada em virtualização:        Status: Executando
+                                           Propriedades de Segurança Necessárias:
+                                           Propriedades de segurança disponíveis:
+                                                 Suporte para Virtualização de Base
+                                                 Inicialização Segura
+                                                 Proteção do DMA
+                                                 Código UEFI Somente Leitura
+                                                 SMM Security Mitigations 1.0
+                                                 Modo de controle de execução com base
+                                           Services Configured:
+                                                 Integridade de Código imposta por Hypervisor
+                                           Services Running:
+                                                 Integridade de Código imposta por Hypervisor
+                                           App Control for Business policy: Imposto
+                                           App Control for Business user mode policy: Desativado
+                                           Recursos de Segurança Habilitados:
+Requisitos do Hyper-V:                     Hipervisor detectado. Recursos necessários para o Hyper-V não serão exibidos.
+
+C:\Users\jonat>netstat -n
+
+Conexões ativas
+
+  Proto  Endereço local         Endereço externo       Estado
+  TCP    192.168.1.4:51558      157.240.226.21:443     ESTABLISHED
+  TCP    192.168.1.4:52452      64.233.190.188:5228    ESTABLISHED
+  TCP    192.168.1.4:55315      172.172.255.216:443    ESTABLISHED
+  TCP    192.168.1.4:56194      3.163.63.111:443       ESTABLISHED
+  TCP    192.168.1.4:56892      35.227.206.50:443      ESTABLISHED
+  TCP    192.168.1.4:57131      3.163.63.111:443       TIME_WAIT
+  TCP    192.168.1.4:57761      57.144.233.32:443      ESTABLISHED
+  TCP    192.168.1.4:58043      216.239.34.157:443     TIME_WAIT
+  TCP    192.168.1.4:58044      23.11.34.158:80        TIME_WAIT
+  TCP    192.168.1.4:58045      199.232.214.172:80     TIME_WAIT
+  TCP    192.168.1.4:58634      157.240.226.21:443     ESTABLISHED
+  TCP    192.168.1.4:58782      216.239.34.157:443     TIME_WAIT
+  TCP    192.168.1.4:59859      157.240.226.63:443     ESTABLISHED
+  TCP    192.168.1.4:60026      35.227.206.50:443      ESTABLISHED
+  TCP    192.168.1.4:60101      172.217.29.129:443     TIME_WAIT
+  TCP    192.168.1.4:61011      157.240.226.21:443     ESTABLISHED
+  TCP    192.168.1.4:61904      52.97.19.130:443       ESTABLISHED
+  TCP    192.168.1.4:61926      157.240.226.21:443     ESTABLISHED
+  TCP    192.168.1.4:65147      207.45.73.1:443        CLOSE_WAIT
+
+C:\Users\jonat>netstat -ano
+
+Conexões ativas
+
+  Proto  Endereço local         Endereço externo       Estado           PID
+  TCP    0.0.0.0:135            0.0.0.0:0              LISTENING       1536
+  TCP    0.0.0.0:445            0.0.0.0:0              LISTENING       4
+  TCP    0.0.0.0:2383           0.0.0.0:0              LISTENING       5800
+  TCP    0.0.0.0:5040           0.0.0.0:0              LISTENING       2112
+  TCP    0.0.0.0:5357           0.0.0.0:0              LISTENING       4
+  TCP    0.0.0.0:7680           0.0.0.0:0              LISTENING       7868
+  TCP    0.0.0.0:49664          0.0.0.0:0              LISTENING       1276
+  TCP    0.0.0.0:49665          0.0.0.0:0              LISTENING       1092
+  TCP    0.0.0.0:49666          0.0.0.0:0              LISTENING       2016
+  TCP    0.0.0.0:49667          0.0.0.0:0              LISTENING       2600
+  TCP    0.0.0.0:49668          0.0.0.0:0              LISTENING       3852
+  TCP    0.0.0.0:49669          0.0.0.0:0              LISTENING       1176
+  TCP    127.0.0.1:1434         0.0.0.0:0              LISTENING       5388
+  TCP    127.0.0.1:27017        0.0.0.0:0              LISTENING       4260
+  TCP    127.0.0.1:51519        0.0.0.0:0              LISTENING       5388
+  TCP    169.254.15.43:139      0.0.0.0:0              LISTENING       4
+  TCP    192.168.1.4:139        0.0.0.0:0              LISTENING       4
+  TCP    192.168.1.4:51558      157.240.226.21:443     ESTABLISHED     12024
+  TCP    192.168.1.4:51655      104.18.37.185:443      ESTABLISHED     12024
+  TCP    192.168.1.4:52452      64.233.190.188:5228    ESTABLISHED     12024
+  TCP    192.168.1.4:54638      192.178.193.94:443     ESTABLISHED     12024
+  TCP    192.168.1.4:55315      172.172.255.216:443    ESTABLISHED     4224
+  TCP    192.168.1.4:55943      142.251.128.227:443    ESTABLISHED     12024
+  TCP    192.168.1.4:56892      35.227.206.50:443      ESTABLISHED     12024
+  TCP    192.168.1.4:57237      142.251.0.95:443       ESTABLISHED     12024
+  TCP    192.168.1.4:57761      57.144.233.32:443      ESTABLISHED     12024
+  TCP    192.168.1.4:58278      142.250.18.94:443      ESTABLISHED     12024
+  TCP    192.168.1.4:58634      157.240.226.21:443     ESTABLISHED     12024
+  TCP    192.168.1.4:59287      108.177.123.84:443     ESTABLISHED     12024
+  TCP    192.168.1.4:59497      142.250.15.94:443      ESTABLISHED     12024
+  TCP    192.168.1.4:59643      192.178.132.94:443     ESTABLISHED     12024
+  TCP    192.168.1.4:59859      157.240.226.63:443     ESTABLISHED     12024
+  TCP    192.168.1.4:60026      35.227.206.50:443      ESTABLISHED     12024
+  TCP    192.168.1.4:61011      157.240.226.21:443     ESTABLISHED     12024
+  TCP    192.168.1.4:61148      192.178.193.94:443     ESTABLISHED     12024
+  TCP    192.168.1.4:61295      172.217.30.78:443      ESTABLISHED     12024
+  TCP    192.168.1.4:61795      3.164.29.113:443       ESTABLISHED     12024
+  TCP    192.168.1.4:61904      52.97.19.130:443       ESTABLISHED     4048
+  TCP    192.168.1.4:61926      157.240.226.21:443     ESTABLISHED     12024
+  TCP    [::]:135               [::]:0                 LISTENING       1536
+  TCP    [::]:445               [::]:0                 LISTENING       4
+  TCP    [::]:2383              [::]:0                 LISTENING       5800
+  TCP    [::]:5357              [::]:0                 LISTENING       4
+  TCP    [::]:7680              [::]:0                 LISTENING       7868
+  TCP    [::]:49664             [::]:0                 LISTENING       1276
+  TCP    [::]:49665             [::]:0                 LISTENING       1092
+  TCP    [::]:49666             [::]:0                 LISTENING       2016
+  TCP    [::]:49667             [::]:0                 LISTENING       2600
+  TCP    [::]:49668             [::]:0                 LISTENING       3852
+  TCP    [::]:49669             [::]:0                 LISTENING       1176
+  TCP    [::1]:1434             [::]:0                 LISTENING       5388
+  TCP    [::1]:42050            [::]:0                 LISTENING       4140
+  TCP    [::1]:51519            [::]:0                 LISTENING       5388
+  UDP    0.0.0.0:3702           *:*                                    9552
+  UDP    0.0.0.0:3702           *:*                                    9552
+  UDP    0.0.0.0:5050           *:*                                    2112
+  UDP    0.0.0.0:5353           *:*                                    11796
+  UDP    0.0.0.0:5353           *:*                                    2504
+  UDP    0.0.0.0:5353           *:*                                    11796
+  UDP    0.0.0.0:5353           *:*                                    11796
+  UDP    0.0.0.0:5353           *:*                                    11796
+  UDP    0.0.0.0:5355           *:*                                    2504
+  UDP    0.0.0.0:49753          104.237.171.35:443                     12024
+  UDP    0.0.0.0:49819          *:*                                    9552
+  UDP    0.0.0.0:50078          142.251.154.7:443                      12024
+  UDP    0.0.0.0:55064          142.251.151.119:443                    12024
+  UDP    0.0.0.0:55830          *:*                                    2504
+  UDP    0.0.0.0:55887          142.251.153.4:443                      12024
+  UDP    0.0.0.0:58517          35.190.94.55:443                       12024
+  UDP    0.0.0.0:62137          192.178.234.95:443                     12024
+  UDP    0.0.0.0:63904          *:*                                    2504
+  UDP    127.0.0.1:1900         *:*                                    10152
+  UDP    127.0.0.1:50022        *:*                                    10152
+  UDP    127.0.0.1:57146        127.0.0.1:57146                        4244
+  UDP    169.254.15.43:137      *:*                                    4
+  UDP    169.254.15.43:138      *:*                                    4
+  UDP    169.254.15.43:1900     *:*                                    10152
+  UDP    169.254.15.43:50020    *:*                                    10152
+  UDP    192.168.1.4:137        *:*                                    4
+  UDP    192.168.1.4:138        *:*                                    4
+  UDP    192.168.1.4:1900       *:*                                    10152
+  UDP    192.168.1.4:50021      *:*                                    10152
+  UDP    [::]:3702              *:*                                    9552
+  UDP    [::]:3702              *:*                                    9552
+  UDP    [::]:5353              *:*                                    11796
+  UDP    [::]:5353              *:*                                    11796
+  UDP    [::]:5353              *:*                                    2504
+  UDP    [::]:5355              *:*                                    2504
+  UDP    [::]:49820             *:*                                    9552
+  UDP    [::]:55830             *:*                                    2504
+  UDP    [::]:63904             *:*                                    2504
+  UDP    [::1]:1900             *:*                                    10152
+  UDP    [::1]:50019            *:*                                    10152
+  UDP    [fe80::9d3:54b6:308e:6b91%20]:1900  *:*                                    10152
+  UDP    [fe80::9d3:54b6:308e:6b91%20]:50018  *:*                                    10152
+  UDP    [fe80::8cdc:e77e:f482:8de2%19]:1900  *:*                                    10152
+  UDP    [fe80::8cdc:e77e:f482:8de2%19]:50017  *:*                                    10152
+
+C:\Users\jonat>tasklist
+
+Nome da imagem            Identifi Nome da sessão       Sessão# Uso de memór
+========================= ======== ================ =========== ============
+System Idle Process              0 Services                   0          8 K
+System                           4 Services                   0      1.852 K
+Secure System                  188 Services                   0     41.908 K
+Registry                       232 Services                   0     39.256 K
+smss.exe                       760 Services                   0      1.356 K
+csrss.exe                      844 Services                   0      5.472 K
+wininit.exe                   1092 Services                   0      8.032 K
+csrss.exe                     1100 Console                    1      6.368 K
+services.exe                  1176 Services                   0     17.008 K
+winlogon.exe                  1204 Console                    1     12.676 K
+LsaIso.exe                    1268 Services                   0      3.428 K
+lsass.exe                     1276 Services                   0     26.532 K
+svchost.exe                   1408 Services                   0     35.088 K
+fontdrvhost.exe               1440 Services                   0      3.412 K
+fontdrvhost.exe               1448 Console                    1      3.756 K
+svchost.exe                   1536 Services                   0     16.420 K
+svchost.exe                   1592 Services                   0     11.716 K
+dwm.exe                       1676 Console                    1     91.080 K
+svchost.exe                   1712 Services                   0      6.732 K
+svchost.exe                   1824 Services                   0      6.376 K
+svchost.exe                   1856 Services                   0     13.040 K
+svchost.exe                   1864 Services                   0     14.768 K
+svchost.exe                   1968 Services                   0     10.232 K
+svchost.exe                   2000 Services                   0      6.944 K
+svchost.exe                   2016 Services                   0     12.900 K
+svchost.exe                    856 Services                   0      7.800 K
+svchost.exe                    892 Services                   0     13.004 K
+svchost.exe                   2080 Services                   0      7.456 K
+svchost.exe                   2124 Services                   0     19.088 K
+svchost.exe                   2232 Services                   0     21.516 K
+svchost.exe                   2504 Services                   0     10.656 K
+amdfendrsr.exe                2584 Services                   0      8.496 K
+atiesrxx.exe                  2592 Services                   0      7.928 K
+svchost.exe                   2600 Services                   0     11.580 K
+svchost.exe                   2720 Services                   0      9.952 K
+svchost.exe                   2828 Services                   0      9.808 K
+svchost.exe                   2892 Services                   0      8.200 K
+atieclxx.exe                  2976 Console                    1     16.388 K
+svchost.exe                   2984 Services                   0      7.224 K
+svchost.exe                   2988 Services                   0     17.592 K
+svchost.exe                   3000 Services                   0      9.440 K
+Memory Compression            2512 Services                   0    628.136 K
+svchost.exe                   3088 Services                   0     11.064 K
+svchost.exe                   3128 Services                   0     11.688 K
+svchost.exe                   3136 Services                   0      9.608 K
+svchost.exe                   3240 Services                   0     23.064 K
+svchost.exe                   3272 Services                   0     10.616 K
+svchost.exe                   3372 Services                   0      8.028 K
+svchost.exe                   3368 Services                   0     12.412 K
+svchost.exe                   3392 Services                   0     16.256 K
+audiodg.exe                   3520 Services                   0     20.256 K
+svchost.exe                   3644 Services                   0     21.796 K
+svchost.exe                   3672 Services                   0     17.632 K
+spoolsv.exe                   3852 Services                   0     19.872 K
+svchost.exe                   3892 Services                   0     25.964 K
+svchost.exe                   3900 Services                   0     17.012 K
+svchost.exe                   3932 Services                   0     13.112 K
+svchost.exe                   4072 Services                   0      9.628 K
+svchost.exe                   4104 Services                   0     36.776 K
+RtkBtManServ.exe              4116 Services                   0      7.864 K
+sqlwriter.exe                 4124 Services                   0      9.928 K
+MsMpEng.exe                   4148 Services                   0    150.576 K
+MpDefenderCoreService.exe     4156 Services                   0     21.192 K
+svchost.exe                   4172 Services                   0     19.376 K
+svchost.exe                   4168 Services                   0     20.016 K
+svchost.exe                   4192 Services                   0      8.468 K
+svchost.exe                   4200 Services                   0      6.964 K
+svchost.exe                   4208 Services                   0     10.228 K
+SenaryAudioApp.Svc.exe        4216 Services                   0     39.204 K
+svchost.exe                   4224 Services                   0     25.480 K
+svchost.exe                   4244 Services                   0     13.744 K
+mongod.exe                    4260 Services                   0     42.660 K
+svchost.exe                   4476 Services                   0      9.088 K
+svchost.exe                   4944 Services                   0     12.688 K
+svchost.exe                   5032 Services                   0     11.344 K
+svchost.exe                   4888 Services                   0     14.940 K
+AggregatorHost.exe            5720 Services                   0     11.404 K
+svchost.exe                   6268 Services                   0     24.880 K
+cowork-svc.exe                6464 Services                   0     10.772 K
+svchost.exe                   6472 Services                   0      9.356 K
+sihost.exe                    6588 Console                    1     45.056 K
+svchost.exe                   6644 Console                    1     29.252 K
+svchost.exe                   6708 Console                    1      6.956 K
+svchost.exe                   6764 Console                    1     33.828 K
+svchost.exe                   6936 Services                   0     25.268 K
+taskhostw.exe                 7100 Console                    1     18.976 K
+svchost.exe                   2112 Services                   0     23.760 K
+explorer.exe                  4048 Console                    1    234.632 K
+CrossDeviceResume.exe         7184 Console                    1     42.440 K
+svchost.exe                   7388 Services                   0     11.324 K
+svchost.exe                   7580 Services                   0     13.632 K
+NgcIso.exe                    7616 Services                   0      3.824 K
+svchost.exe                   7624 Services                   0     13.776 K
+CrossDeviceService.exe        7696 Console                    1     68.028 K
+svchost.exe                   7948 Services                   0      9.256 K
+svchost.exe                   7968 Services                   0     24.148 K
+DefenderAiPlatformHost.ex     8164 Services                   0      6.004 K
+svchost.exe                   7740 Services                   0     13.020 K
+svchost.exe                   8288 Console                    1     31.860 K
+SearchHost.exe                8552 Console                    1    100.412 K
+StartMenuExperienceHost.e     8576 Console                    1    110.680 K
+svchost.exe                   8880 Console                    1     16.200 K
+RuntimeBroker.exe             8904 Console                    1     42.856 K
+svchost.exe                   9468 Services                   0      8.936 K
+svchost.exe                   9480 Services                   0     10.868 K
+svchost.exe                   9552 Services                   0     11.332 K
+dasHost.exe                   9676 Services                   0     15.172 K
+msedgewebview2.exe           10092 Console                    1    100.892 K
+svchost.exe                  10152 Services                   0      9.936 K
+msedgewebview2.exe            9284 Console                    1     12.164 K
+DefenderSessionHelper.exe     9920 Console                    1      5.872 K
+msedgewebview2.exe           10340 Console                    1     37.704 K
+msedgewebview2.exe           10348 Console                    1     42.136 K
+RuntimeBroker.exe            10384 Console                    1     13.596 K
+msedgewebview2.exe           10576 Console                    1     18.248 K
+msedgewebview2.exe           10840 Console                    1     64.900 K
+NisSrv.exe                   11160 Services                   0     13.824 K
+ctfmon.exe                    7512 Console                    1     32.084 K
+SearchIndexer.exe             5504 Services                   0     16.260 K
+chrome.exe                   11796 Console                    1    261.776 K
+chrome.exe                   11820 Console                    1      9.368 K
+chrome.exe                   12008 Console                    1    323.076 K
+chrome.exe                   12024 Console                    1     55.748 K
+chrome.exe                   12060 Console                    1     19.164 K
+chrome.exe                   11576 Console                    1     51.296 K
+chrome.exe                   12536 Console                    1     88.628 K
+chrome.exe                   12512 Console                    1     37.984 K
+chrome.exe                    6840 Console                    1     26.620 K
+chrome.exe                   13112 Console                    1    200.540 K
+svchost.exe                  11524 Services                   0     19.584 K
+svchost.exe                   6284 Console                    1     18.152 K
+svchost.exe                   7868 Services                   0     25.856 K
+svchost.exe                  10800 Services                   0     13.312 K
+svchost.exe                   7796 Services                   0     10.824 K
+MsDtsSrvr.exe                 1612 Services                   0     22.628 K
+sqlservr.exe                  5388 Services                   0    144.068 K
+msmdsrv.exe                   5800 Services                   0     70.592 K
+fdlauncher.exe               10584 Services                   0      8.236 K
+fdhost.exe                    8320 Services                   0      7.956 K
+conhost.exe                   9344 Services                   0      5.856 K
+svchost.exe                  13552 Services                   0     12.756 K
+sqlceip.exe                  13628 Services                   0     65.252 K
+Microsoft.SqlServer.Integ    13744 Services                   0     54.448 K
+chrome.exe                     744 Console                    1    166.216 K
+sqlceip.exe                   3296 Services                   0     46.024 K
+svchost.exe                   3512 Services                   0     15.112 K
+svchost.exe                   8152 Services                   0     18.456 K
+svchost.exe                  11492 Services                   0     23.256 K
+Launchpad.exe                14228 Services                   0     18.980 K
+ShellExperienceHost.exe       7076 Console                    1     69.256 K
+RuntimeBroker.exe             3472 Console                    1     22.788 K
+svchost.exe                   5052 Console                    1     22.140 K
+svchost.exe                  14132 Console                    1     18.936 K
+ApplicationFrameHost.exe      9092 Console                    1     45.512 K
+OneDrive.Sync.Service.exe     4140 Console                    1      8.780 K
+chrome.exe                    6036 Console                    1    172.904 K
+svchost.exe                   2960 Services                   0     20.504 K
+svchost.exe                  11696 Services                   0     16.068 K
+svchost.exe                  14092 Services                   0     11.696 K
+svchost.exe                   5936 Console                    1     14.868 K
+svchost.exe                   5084 Services                   0     16.128 K
+chrome.exe                    1704 Console                    1    483.504 K
+SystemSettings.exe           13536 Console                    1      2.116 K
+UserOOBEBroker.exe           14620 Console                    1     10.496 K
+chrome.exe                   13244 Console                    1     64.988 K
+chrome.exe                   10592 Console                    1    185.028 K
+Notepad.exe                  14152 Console                    1    106.336 K
+ShellHost.exe                 9276 Console                    1     43.996 K
+cmd.exe                       2792 Console                    1      6.252 K
+conhost.exe                  11216 Console                    1      9.284 K
+OpenConsole.exe               6948 Console                    1     19.640 K
+WindowsTerminal.exe           2068 Console                    1     87.804 K
+chrome.exe                   11480 Console                    1     69.296 K
+chrome.exe                   15988 Console                    1    677.600 K
+chrome.exe                   14360 Console                    1     31.656 K
+tasklist.exe                 15328 Console                    1     11.984 K
+WmiPrvSE.exe                  9084 Services                   0     14.480 K
+
+C:\Users\jonat>nslookup
+Servidor PadrÒo:  UnKnown
+Address:  192.168.1.1
+
+>
+> google.com
+Servidor:  UnKnown
+Address:  192.168.1.1
+
+Não é resposta autoritativa:
+Nome:    google.com
+Addresses:  2800:3f0:4002:809::200e
+          172.217.30.14
+
+> 157.240.226.21
+Servidor:  UnKnown
+Address:  192.168.1.1
+
+Nome:    edge-dgw-shv-02-gru1.facebook.com
+Address:  157.240.226.21
+
+> exit

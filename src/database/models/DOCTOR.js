@@ -1,4 +1,5 @@
 import mongoose from 'mongoose';
+import { isValidElement } from 'react';
 
 const { Schema } = mongoose;
 
@@ -7,35 +8,37 @@ const doctorSchema = new Schema({
     type: String,
     required: [true, 'appointmentid obrigatório']
   },
- DOCTORnome :{
+  doctorNome: { 
     type: String, 
-    required: [true, 'nome da doctor obrigatório'], 
+    required: [true, 'nome da doctor obrigatório']
   },
-  CRM :{
+  CRM: {
     type: String,
     required: [true, 'crm da doctor obrigatório']
   },
-nascimento:{
+  nascimento: {
     type: String, 
     required: [true, 'nascimento da doctor obrigatório']
   },
-telefone :{
+  telefone: {
     type: String, 
     required: [true, 'telefone da doctor obrigatório'],
-  const formulario = docmente.getElementById('formulario');
-        return /\(\d{2}\) \d{5}-\d{4}/.test(v);
+    validate: { 
+      validator: function(valor) {
+        return /\(\d{2}\) \d{5}-\d{4}/.test(valor);
       },
       message: 'Telefone inválido'
     }
-  
   }, 
-especialidade :{
+  especialidade: {
     type: String, 
     required: [true, 'especialidade da doctor obrigatório']
   },
-   createdAt: {
+  createdAt: {
     type: Date, 
     default: Date.now
   }
 });
-export default mongoose.model('DOCTOR', DOCTORSchema);
+
+
+export default mongoose.model('DOCTOR', doctorSchema);

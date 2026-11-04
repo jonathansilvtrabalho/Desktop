@@ -2,14 +2,18 @@ import mongoose from 'mongoose';
 
 const { Schema } = mongoose;
 
+import mongoose from 'mongoose';
+
+const { Schema } = mongoose;
+
 const ReceituarioSchema = new Schema({
   appointmentId: {
     type: String,
-    required: [true, 'appointmentid obrigatório']
+    required: [true, 'appointmentId obrigatório']
   },
   date: { 
     type: Date, 
-    required: [true, 'date da receita obrigatório'], 
+    required: [true, 'Data do receituário obrigatória'], // Ajustado gênero e traduzido termo para o usuário
     default: Date.now 
   },
   dosagem: {
@@ -20,12 +24,9 @@ const ReceituarioSchema = new Schema({
     type: String, 
     required: [true, 'Nome do medicamento obrigatório']
   },
-
-
-
   instructions: {
     type: String, 
-    required: [true, 'instructions de uso obrigatório']
+    required: [true, 'Instruções de uso obrigatórias'] // Ajustado plural e gênero como foco é estudo de caso usei a IA para revisão  de pontos como previsto  no projeto de portifolio
   },
   createdAt: {
     type: Date, 
