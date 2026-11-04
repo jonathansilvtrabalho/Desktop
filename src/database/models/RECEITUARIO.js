@@ -1,9 +1,4 @@
 import mongoose from 'mongoose';
-
-const { Schema } = mongoose;
-
-import mongoose from 'mongoose';
-
 const { Schema } = mongoose;
 
 const ReceituarioSchema = new Schema({
